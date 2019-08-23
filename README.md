@@ -1,2 +1,2 @@
 # doc
-Documentation for Incentum
+Documentation for Incentum, mostly in the wiki for this project.
